@@ -3,7 +3,7 @@
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ![](https://img.shields.io/github/license/EdisonLeeeee/RS-Adversarial-Learning)
 
-A curated list of Adversarial Meachine learning papers on Neural Compression published in top conferences.
+A curated list of Adversarial Meachine Learning papers on Neural Compression published in top-tier conferences.
 
 ### Table of Contents 
 - [1. Video Compression](#video)

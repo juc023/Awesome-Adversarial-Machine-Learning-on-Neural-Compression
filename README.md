@@ -4,10 +4,12 @@
 ![](https://img.shields.io/github/license/EdisonLeeeee/RS-Adversarial-Learning)
 
 ### 👉 Table of Contents 👈
-- [Video](#video)
+- [Video Compression](#video)
 	- [2023](#2023)
-- [Image](#image)
+- [Image Compression](#image)
 	- [2023](#2023-1)
+	- [2022](#2022-1)
+	- [2021](#2021-1)
 
 
 # Video
@@ -20,4 +22,13 @@
 
 ## 2023
 
-+ **Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger**, *Arxiv*, 📝[Paper](https://arxiv.org/pdf/2302.14677.pdf)
++ **Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger**, *CVPR*, 📝[Paper](https://arxiv.org/pdf/2302.14677.pdf)
+
+## 2022
+
++ **Denial-of-Service Attacks on Learned Image Compression**, *Arxiv*, 📝[Paper](https://arxiv.org/pdf/2205.13253.pdf)
+
+## 2021
+
++ **Towards Robust Neural Image Compression: Adversarial Attack and Model Finetuning**, *Arxiv*, 📝[Paper](https://arxiv.org/pdf/2112.08691v1.pdf)
+

@@ -13,14 +13,11 @@
 # Video
 
 ## 2023
-+ **PipAttack: Poisoning Federated Recommender Systems for Manipulating Item Promotion**, *WSDM*,  [📝Paper](https://arxiv.org/abs/2110.10926)
-+ **Targeted Data Poisoning Attack on News Recommendation System**， *Arxiv*, [📝Paper](https://arxiv.org/abs/2203.03560)
-+ **FedRecAttack: Model Poisoning Attack to Federated Recommendation**, *ICDE*, [📝Paper](https://arxiv.org/abs/2204.01499), [:octocat:Code](https://github.com/rdz98/FedRecAttack)
-+ **Poisoning Deep Learning based Recommender Model in Federated Learning Scenarios**, *IJCAI*, [📝Paper](https://arxiv.org/abs/2204.13594)
++ **RoVISQ: Reduction of Video Service Quality via Adversarial Attacks on Deep Learning-based Video Compression**, *NDSS*,  [📝Paper](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s165_paper.pdf)
++ **VideoFlip: Adversarial Bit Flips for Reducing Video Service Quality**， *DAC*, [📝Paper]
 
 # Image
 
 ## 2023
 
-+ **Graph Embedding for Recommendation against Attribute Inference Attacks**, *WWW*,  [📝Paper](https://arxiv.org/pdf/2101.12549.pdf)
-+ **Understanding the Effects of Adversarial Personalized Ranking Optimization Method on Recommendation Quality**, *Arxiv*, 📝[Paper](https://arxiv.org/abs/2107.13876)
++ **Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger**, *Arxiv*, 📝[Paper](https://arxiv.org/pdf/2302.14677.pdf)

@@ -6,19 +6,19 @@
 A curated list of Adversarial Meachine learning papers on Neural Compression published in top conferences.
 
 ### Table of Contents 
-- [Video Compression](#video)
+- [1. Video Compression](#video)
 	- [2023](#2023)
-- [Image Compression](#image)
+- [2. Image Compression](#image)
 	- [2023](#2023-1)
 
 
-# Video Compression
+# 1. Video Compression
 
 ## 2023
 + **RoVISQ: Reduction of Video Service Quality via Adversarial Attacks on Deep Learning-based Video Compression**, *NDSS*,  [📝Paper](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s165_paper.pdf)
 + **VideoFlip: Adversarial Bit Flips for Reducing Video Service Quality**， *DAC*, [📝Paper]
 
-# Image Compression
+# 2. Image Compression
 
 ## 2023
 
